@@ -11,13 +11,13 @@ Near Miss\
 \
 The Sample size was calculates using the following formula: n = Z^2(p(1 – p)/m^2) where: n = sample size Z = z-value (for 95% confidence interval, Z = 1.96) p = proportion of the minority class (taken as 0.5 for a balanced dataset) m = margin of error (taken as 0.1 for a sample size of 1000)
 
- 5 models applied are:\
+ 5 models applied are:
 
 Naive Bayes\
 Support Vector Machine\
 Decision Tree Classifier \
 Random Forest Classifier\
-Extra Tree Classifier \
+Extra Tree Classifier 
 
 
 the accuracy of the applied model using the respective sampling technique is tabulated as under:

@@ -3,7 +3,7 @@
 
 5 sampling Techniques used are:
 
-Random Under Sampler\ 
+Random Under Sampler \
 Random Over Sampler\
 SMOTE\
 TOMEK links\
@@ -27,5 +27,5 @@ As we can see from the above  table that the Maximum Accuracy obtained is 99.35%
 
 Naive Bayes with Random Over Sampler, Smote and Tomek\
 Random Forest Classifier with Random Over Sampler, Smote and Tomek\
-Extra Tree Classifier with Random Over Sampler, Smote and Tomek\
+Extra Tree Classifier with Random Over Sampler, Smote and Tomek
 
